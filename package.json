@@ -1,0 +1,36 @@
+{
+  "name": "txm-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "txm-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/txm/txm-pages#readme",
+  "bugs": {
+    "url": "https://github.com/txm/txm-pages/issues"
+  },
+  "license": "MIT",
+  "author": "tangxinming0310@qq.com",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txm/txm-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
